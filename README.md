@@ -1,2 +1,2 @@
 # YoutubeVideoDownloader
-An efficient and flexible video downloader for youtube. 
+An efficient video downloader for youtube. 
